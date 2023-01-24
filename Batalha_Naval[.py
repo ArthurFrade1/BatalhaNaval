@@ -612,12 +612,7 @@ else:
     # MONTAGEM DO TABULEIRO'
     monTab(pl1, TAB1)
     system('cls') or None
-#     TAB1=[
-#     [3,3,3,0],
-#    [0,3,3,3],
-#    [3,3,3,0],
-#    [0,3,3,3]
-#    ]
+
     monMaq(TAB2)
      
     msg('HORA DO JOGO')
